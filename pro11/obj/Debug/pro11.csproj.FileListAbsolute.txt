@@ -1,0 +1,7 @@
+D:\7150meett\bca_4c\pro11\bin\Debug\pro11.exe.config
+D:\7150meett\bca_4c\pro11\bin\Debug\pro11.exe
+D:\7150meett\bca_4c\pro11\bin\Debug\pro11.pdb
+D:\7150meett\bca_4c\pro11\obj\Debug\pro11.csproj.AssemblyReference.cache
+D:\7150meett\bca_4c\pro11\obj\Debug\pro11.csproj.CoreCompileInputs.cache
+D:\7150meett\bca_4c\pro11\obj\Debug\pro11.exe
+D:\7150meett\bca_4c\pro11\obj\Debug\pro11.pdb

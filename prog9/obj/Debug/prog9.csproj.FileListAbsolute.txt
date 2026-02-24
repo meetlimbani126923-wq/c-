@@ -1,0 +1,7 @@
+D:\7150meett\bca_4c\prog9\bin\Debug\prog9.exe.config
+D:\7150meett\bca_4c\prog9\bin\Debug\prog9.exe
+D:\7150meett\bca_4c\prog9\bin\Debug\prog9.pdb
+D:\7150meett\bca_4c\prog9\obj\Debug\prog9.csproj.AssemblyReference.cache
+D:\7150meett\bca_4c\prog9\obj\Debug\prog9.csproj.CoreCompileInputs.cache
+D:\7150meett\bca_4c\prog9\obj\Debug\prog9.exe
+D:\7150meett\bca_4c\prog9\obj\Debug\prog9.pdb

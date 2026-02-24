@@ -1,0 +1,7 @@
+D:\7150meett\bca_4c\prog8\obj\Debug\prog8.csproj.AssemblyReference.cache
+D:\7150meett\bca_4c\prog8\obj\Debug\prog8.csproj.CoreCompileInputs.cache
+D:\7150meett\bca_4c\prog8\bin\Debug\prog8.exe.config
+D:\7150meett\bca_4c\prog8\bin\Debug\prog8.exe
+D:\7150meett\bca_4c\prog8\bin\Debug\prog8.pdb
+D:\7150meett\bca_4c\prog8\obj\Debug\prog8.exe
+D:\7150meett\bca_4c\prog8\obj\Debug\prog8.pdb
