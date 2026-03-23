@@ -1,0 +1,7 @@
+D:\7150meett\UNIT-4 solutin\emp_\bin\Debug\emp_.exe.config
+D:\7150meett\UNIT-4 solutin\emp_\bin\Debug\emp_.exe
+D:\7150meett\UNIT-4 solutin\emp_\bin\Debug\emp_.pdb
+D:\7150meett\UNIT-4 solutin\emp_\obj\Debug\emp_.csproj.AssemblyReference.cache
+D:\7150meett\UNIT-4 solutin\emp_\obj\Debug\emp_.csproj.CoreCompileInputs.cache
+D:\7150meett\UNIT-4 solutin\emp_\obj\Debug\emp_.exe
+D:\7150meett\UNIT-4 solutin\emp_\obj\Debug\emp_.pdb
