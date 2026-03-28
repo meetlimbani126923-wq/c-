@@ -1,7 +1,0 @@
-E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p13\bin\Debug\u3p13.exe.config
-E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p13\bin\Debug\u3p13.exe
-E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p13\bin\Debug\u3p13.pdb
-E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p13\obj\Debug\u3p13.csproj.AssemblyReference.cache
-E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p13\obj\Debug\u3p13.csproj.CoreCompileInputs.cache
-E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p13\obj\Debug\u3p13.exe
-E:\BCA 4 C\C#\ALL_UNIT_SOLUTION\u3p13\obj\Debug\u3p13.pdb
