@@ -1,0 +1,7 @@
+E:\BCA 4 C\C#\UNIT-4 solution\jagged_array\bin\Debug\jagged_array.exe.config
+E:\BCA 4 C\C#\UNIT-4 solution\jagged_array\bin\Debug\jagged_array.exe
+E:\BCA 4 C\C#\UNIT-4 solution\jagged_array\bin\Debug\jagged_array.pdb
+E:\BCA 4 C\C#\UNIT-4 solution\jagged_array\obj\Debug\jagged_array.csproj.AssemblyReference.cache
+E:\BCA 4 C\C#\UNIT-4 solution\jagged_array\obj\Debug\jagged_array.csproj.CoreCompileInputs.cache
+E:\BCA 4 C\C#\UNIT-4 solution\jagged_array\obj\Debug\jagged_array.exe
+E:\BCA 4 C\C#\UNIT-4 solution\jagged_array\obj\Debug\jagged_array.pdb

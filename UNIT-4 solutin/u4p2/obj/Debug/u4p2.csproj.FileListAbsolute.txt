@@ -1,0 +1,7 @@
+E:\BCA 4 C\C#\UNIT-4 solution\u4p2\bin\Debug\u4p2.exe.config
+E:\BCA 4 C\C#\UNIT-4 solution\u4p2\bin\Debug\u4p2.exe
+E:\BCA 4 C\C#\UNIT-4 solution\u4p2\bin\Debug\u4p2.pdb
+E:\BCA 4 C\C#\UNIT-4 solution\u4p2\obj\Debug\u4p2.csproj.AssemblyReference.cache
+E:\BCA 4 C\C#\UNIT-4 solution\u4p2\obj\Debug\u4p2.csproj.CoreCompileInputs.cache
+E:\BCA 4 C\C#\UNIT-4 solution\u4p2\obj\Debug\u4p2.exe
+E:\BCA 4 C\C#\UNIT-4 solution\u4p2\obj\Debug\u4p2.pdb
